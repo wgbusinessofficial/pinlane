@@ -1,0 +1,25 @@
+{
+  "name": "Pin Deck",
+  "short_name": "Pin Deck",
+  "description": "Shot-by-shot bowling tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E7D5AA",
+  "theme_color": "#141C29",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
