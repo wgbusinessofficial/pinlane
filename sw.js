@@ -1,11 +1,11 @@
 /* Pin Deck offline cache. Bump CACHE when you redeploy. */
-const CACHE = "pin-deck-v1";
+const CACHE = "pin-deck-v2";
 const ASSETS = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
-  "./icons/icon-192.png",
-  "./icons/icon-512.png",
+  "./icon-192.png",
+  "./icon-512.png",
 ];
 
 self.addEventListener("install", (e) => {
