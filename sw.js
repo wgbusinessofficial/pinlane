@@ -1,5 +1,5 @@
 /* Pin Deck offline cache. Bump CACHE when you redeploy. */
-const CACHE = "pin-deck-v2";
+const CACHE = "pin-deck-v3";
 const ASSETS = [
   "./",
   "./index.html",
